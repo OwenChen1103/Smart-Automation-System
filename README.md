@@ -57,11 +57,42 @@ python3 original_precise_selector.py
 - **Image Area (Monitor Image)** - Monitor image in specified area
 - **Custom Area (Click)** - Custom click operation
 
+## 🛠️ Tech Stack
+
+### **Core Technologies**
+- **Python 3.7+** - Primary programming language
+- **PySide6** - Modern Qt-based GUI framework
+- **pyautogui** - Cross-platform GUI automation library
+- **OpenCV (cv2)** - Computer vision and image processing
+- **Pillow (PIL)** - Python Imaging Library for image handling
+- **NumPy** - Numerical computing and array operations
+
+### **OCR & Text Recognition**
+- **Tesseract OCR** - Optical Character Recognition engine
+- **pytesseract** - Python wrapper for Tesseract OCR
+
+### **Image Processing & Computer Vision**
+- **OpenCV-Python** - Real-time computer vision library
+- **Template Matching** - Image detection and matching algorithms
+- **Screenshot Capture** - Real-time screen capture capabilities
+
+### **GUI & User Interface**
+- **PySide6/Qt6** - Modern cross-platform GUI framework
+- **QThread** - Multi-threading for non-blocking operations
+- **QTimer** - Real-time updates and monitoring
+- **Signal/Slot** - Event-driven programming model
+
+### **System Integration**
+- **Cross-platform Support** - macOS, Windows, Linux
+- **Screen Access APIs** - Native OS screen capture
+- **Mouse/Keyboard Control** - System-level input simulation
+
 ## 🔧 System Requirements
 
-- Python 3.7+
-- macOS / Windows / Linux
-- Screen access permission
+- **Python 3.7+** - Core runtime environment
+- **Tesseract OCR** - For text recognition features
+- **Screen Access Permission** - Required for automation
+- **Operating System** - macOS / Windows / Linux
 
 ## 📝 Usage Examples
 
