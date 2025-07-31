@@ -9,6 +9,8 @@ A concise, practical desktop automation tool that allows you to easily automate 
 - **Real-time Position Display** - Real-time display of mouse position for precise positioning
 - **Clean Interface** - Intuitive and easy-to-use graphical interface
 - **Stable and Reliable** - Based on mature PySide6 and pyautogui technology
+<img width="658" height="665" alt="image" src="https://github.com/user-attachments/assets/48bdcf11-3b46-4cbb-a1a0-7ab6a7adc08a" />
+
 
 ## 🚀 Quick Start
 
